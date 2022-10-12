@@ -1,3 +1,4 @@
 # New course!
 
-Hi friends! This space will soon be for the Python code accompanying my new course "Master calculus 1 using Python: derivatives and applications". Should be released in early October...
+Hi friends! I'm happy to announce that this course is now LIVE. Come check it out:
+https://www.udemy.com/course/pycalc1_x/?couponCode=202210
