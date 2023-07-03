@@ -1,4 +1,6 @@
 # New course!
 
-Hi friends! I'm happy to announce that this course is now LIVE. Come check it out:
+Hi friends!
+
+This repository contains the code and data files related to my calculus course. Here's the url to the full course:
 https://www.udemy.com/course/pycalc1_x/?couponCode=202210
