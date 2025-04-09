@@ -1,7 +1,7 @@
 
 # Master calculus 2 using Python: integration, intuition, code
 
-Welcome to the official code repository for the [Calculus 2: Integrals](https://www.udemy.com/course/pycalc2_x/?couponCode=202404) course on Udemy, created by [Mike X Cohen](https://www.sincxpress.com).
+Welcome to the official code repository for the [Calculus 2: Integrals](https://www.udemy.com/course/pycalc2_x/?couponCode=202504) course on Udemy, created by [Mike X Cohen](https://www.sincxpress.com).
 
 This repository contains all the Python code used in the course, including:
 
