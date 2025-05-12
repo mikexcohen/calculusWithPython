@@ -1,7 +1,7 @@
 
 # Master calculus 1 using Python: derivatives and applications
 
-Welcome to the official code repository for the [Calculus 1: Derivatives](https://www.udemy.com/course/pycalc1_x/?couponCode=202307) course on Udemy, created by [Mike X Cohen](https://www.sincxpress.com).
+Welcome to the official code repository for the [Calculus 1: Derivatives](https://sincxpress.thinkific.com/products/courses/calc1) course on my self-hosted site, created by [Mike X Cohen](https://www.sincxpress.com).
 
 This repository contains all the Python code used in the course, including:
 
