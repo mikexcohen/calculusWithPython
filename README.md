@@ -5,8 +5,8 @@ Welcome to the **Calculus With Python** project by [Mike X Cohen](https://www.si
 
 This repository contains all the code used in two companion Udemy courses on calculus:
 
-- [Calculus 1: Derivatives](https://www.udemy.com/course/pycalc1_x/?couponCode=202404)
-- [Calculus 2: Integrals](https://www.udemy.com/course/pycalc2_x/?couponCode=202504)
+- [Calculus 1: Derivatives](https://sincxpress.thinkific.com/products/courses/calc1)
+- [Calculus 2: Integrals](https://sincxpress.thinkific.com/products/courses/calc2)
 
 Both courses combine traditional mathematical instruction with hands-on coding in Python. The idea is simple: **you can learn a lot of math with a bit of code.** By using Python (especially `numpy`, `sympy`, and `matplotlib`), you'll build visualizations, test ideas, and implement core concepts from calculus.
 
@@ -26,7 +26,7 @@ This folder contains all Python code for the *Calculus 1: Derivatives* course. T
 - Higher-order derivatives
 - Symbolic and numeric differentiation using Python
 
- [Course link on Udemy](https://www.udemy.com/course/pycalc1_x/)
+ [Course link on self-hosted website](https://sincxpress.thinkific.com/products/courses/calc1)
 
 ---
 
@@ -40,7 +40,7 @@ This folder contains all Python code for the *Calculus 2: Integrals* course. Top
 - Applications to area, volume, and probability
 - Multivariable integration and partial integrals
 
- [Course link on Udemy](https://www.udemy.com/course/pycalc2_x/)
+ [Course link on self-hosted website](https://sincxpress.thinkific.com/products/courses/calc2)
 
 ---
 
